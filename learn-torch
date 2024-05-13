@@ -1,6 +1,0 @@
-from torch.utils.data import Dataest
-from PIl import Image
-import os
-class Mydata(Dataest):
-def__init__(self):
-
